@@ -5,14 +5,19 @@ A collection of TILs come across while developing.
 
 ## Categories
 
+[devops](devops/)
 [iOS](iOS/)
-[Unix](Unix/)
+[Unix](unix/)
 
+
+## devops
+
+[Running a local fileserver](devops/running-a-local-fileserver.md)
 
 ## iOS
 
 [Check framework architectures](iOS/check-framework-architectures.md)
 
-## Unix
+## unix
 
-[Diff files and folders](Unix/diff-files-and-folders.md)
+[Diff files and folders](unix/diff-files-and-folders.md)
