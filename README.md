@@ -5,8 +5,10 @@ A collection of TILs come across while developing.
 
 ## Categories
 
-[devops](devops/) 
+[devops](devops/)
+
 [iOS](iOS/) 
+
 [Unix](unix/) 
 
 
