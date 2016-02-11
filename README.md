@@ -10,14 +10,15 @@ A collection of TILs come across while developing.
 * [Unix](unix/) 
 
 
-### devops
+### Devops
 
 * [Running a local fileserver](devops/running-a-local-fileserver.md)
 
 ### iOS
 
 * [Check framework architectures](iOS/check-framework-architectures.md)
+* [Verify IPA signing](iOS/verify-ipa-signing.md)
 
-### unix
+### Unix
 
 * [Diff files and folders](unix/diff-files-and-folders.md)
