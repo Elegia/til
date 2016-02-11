@@ -8,5 +8,5 @@ The lipo tool also works on .a static library files. In fact, the binary file wi
 
 Example:
 
-$ lipo -info M13ProgressSuite.framework/M13ProgressSuite
-Architectures in the fat file: M13ProgressSuite.framework/M13ProgressSuite are: i386 x86_64 armv7 arm64
+    $ lipo -info M13ProgressSuite.framework/M13ProgressSuite
+    Architectures in the fat file: M13ProgressSuite.framework/M13ProgressSuite are: i386 x86_64 armv7 arm64
