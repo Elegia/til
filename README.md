@@ -18,7 +18,7 @@ A collection of TILs come across while developing.
 
 * [Check framework architectures](iOS/check-framework-architectures.md)
 * [Verify IPA signing](iOS/verify-ipa-signing.md)
-* [Swift conditional compilation](iOS/swift-conditional-compliation.md)
+* [Swift conditional compilation](iOS/swift-conditional-compilation.md)
 
 ### Unix
 
