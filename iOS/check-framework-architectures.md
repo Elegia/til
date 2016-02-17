@@ -2,7 +2,7 @@
 
 If you want to check which architectures are supported by an iOS framework, use the **lipo** tool and apply it on the binary file within the framework bundle.
 
-    lipo -info myframework.framework/myframework
+    $ lipo -info myframework.framework/myframework
 
 The lipo tool also works on .a static library files. In fact, the binary file within a framework bundle is a .a file.
 
