@@ -13,6 +13,7 @@ A collection of TILs come across while developing.
 ### Devops
 
 * [Running a local fileserver](devops/running-a-local-fileserver.md)
+* [Running a local PHP server](devops/running-a-local-php-server.md)
 
 ### iOS
 
