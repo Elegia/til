@@ -20,6 +20,7 @@ A collection of TILs come across while developing.
 * [Check framework architectures](iOS/check-framework-architectures.md)
 * [Verify IPA signing](iOS/verify-ipa-signing.md)
 * [Swift conditional compilation](iOS/swift-conditional-compilation.md)
+* [Solve missing dylib errors in archive builds](iOS/solve-missing-dylib-errors-in-archive-build.md)
 
 ### Unix
 
