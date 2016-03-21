@@ -11,9 +11,9 @@ Create three schemes:
 * PROJECT_NAME_A Sales
 * PROJECT_NAME_B Distribution
 
-PROJECT_NAME_A: This is the standard debug build used for development. It has the flag -D DEBUG set.
-PROJECT_NAME_B: This is build option 1. It could for example have the flag -D SALES set.
-PROJECT_NAME_C: This is build option 2. It could have the flag -D DISTRIBUTOR set.
+PROJECT_NAME_A: This is the standard debug build used for development. It has the flag -D DEBUG set. 
+PROJECT_NAME_B: This is build option 1. It could for example have the flag -D SALES set. 
+PROJECT_NAME_C: This is build option 2. It could have the flag -D DISTRIBUTOR set. 
 
 The flags can be set in the target's (NOT the project's) build settings -> Swift Compiler - Custom Flags -> Other Swift Flags
 
