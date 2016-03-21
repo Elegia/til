@@ -1,7 +1,7 @@
 # Set up build schemes
 
 Sometimes it happens that the same project may have multiple build targets, each with a different webservice or flag. Rather than create a
-new target, this can be solved with the use of schemes. Via the Swift Other Swift Flags settings you can set a flag to indicate which properties the build must use 
+new target, this can be solved with the use of schemes. Via the Other Swift Flags settings you can set a flag to indicate which properties the build must use.
 
 I.e. in case the project has two possible builds (one for sales, another for distributors), each with a different webservice:
 
