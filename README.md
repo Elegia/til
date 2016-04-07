@@ -22,6 +22,7 @@ A collection of TILs come across while developing.
 * [Swift conditional compilation](iOS/swift-conditional-compilation.md)
 * [Solve missing dylib errors in archive builds](iOS/solve-missing-dylib-errors-in-archive-build.md)
 * [Set up build schemes](iOS/set-up-build-schemes.md)
+* [Symbolize crash logs](iOS/symbolize-crash-log.md)
 
 ### Unix
 
